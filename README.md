@@ -1,6 +1,6 @@
 # SpringTodoApp
 
-## Aplikacja Springowa z interfejsem REST służąca do zarządzania zadaniami "Todo".
+## Aplikacja Springowa z interfejsem REST służąca do zarządzania zadaniami "Todo"
 
 Do stworzenia aplikacji wykorzystano:
   - Framework Spring,
@@ -13,7 +13,7 @@ Do stworzenia aplikacji wykorzystano:
   
 Aplikacja ta miała na celu zapoznanie się z możliwościami frameworka Spring, z tego względu spróbowano użyć w niej zróżnicowanych adnotacji i mechanizmów Springa, w tym różnego rodzaju repozytoriów, kontrolerów, aspektów, konfiguracji, ExceptionHandler'ów, RestControllerAdvice'ów, filtrów, interceptorów, konfiguracji, serwisów itd.
 
-## REST API Spring app for managing "Todo" tasks.
+## REST API Spring app for managing "Todo" tasks
 
 Following technologies were used to create application:
   - Spring framework,
