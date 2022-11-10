@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.mat3e.controller.TaskControllerE2ETest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.472 s - in io.github.mat3e.controller.TaskControllerE2ETest
